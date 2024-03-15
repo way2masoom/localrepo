@@ -19,3 +19,13 @@ Learning git Part 2 <br>
 3) git checkout <-branch name->  ---> To switch from one brach to another branch <b>
 4) git checkout -b <-New branch name-> ---> To crate new branch <br>
 5) git checkout -d <-branch name-> ---> To Delete branch <br>
+
+<h3> Merge </h3> <br>
+There two way to merge the code <br>
+# By command line 
+1) git diff <-branch name --> It compare our working directly with staging area </br>
+ex: git diff main
+2) git merge <-branch name->   --> To merge Two branch <br>
+
+# By Create a PR(Pull Request)
+crate a PR and review the code and merge the cod <br>
