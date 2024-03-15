@@ -22,10 +22,11 @@ Learning git Part 2 <br>
 
 <h3> Merge </h3> <br>
 There two way to merge the code <br>
-# By command line 
+
+<h3> By command line</h3> <br>
 1) git diff <-branch name --> It compare our working directly with staging area </br>
 ex: git diff main
 2) git merge <-branch name->   --> To merge Two branch <br>
 
-# By Create a PR(Pull Request)
+<h3> By Create a PR(Pull Request)</h3>
 crate a PR and review the code and merge the cod <br>
