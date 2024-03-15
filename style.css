@@ -1,3 +1,14 @@
 p{
     color: red;
 }
+
+.shopping{
+    text-align: left;
+    font-weight: 500;
+    color: green;
+}
+#paragrah{
+    text-align: left;
+    color: aqua;
+    font-size: 18px;
+}
