@@ -1,5 +1,8 @@
 # This is my local Repo <br>
 Learning git Part 2 <br>
+<h2> setting the core editor software for GIT </h2> <br>
+         git config --global core.editor "<editor name>" --> To set the primary editor for git  <br>
+Example: git config --global core.editor "vscode" <br>
 
 <h3> Init Command </h3> <br>
 
